@@ -197,7 +197,7 @@ map(lambda: x*2, [1,2,3,4])
  - NPM packaging is a killer-feature : simple and fast, light-years ahead pip+virtualenv.
  - Works in the browser :)
  
- Python3.7 VS ES6 syntax comparison (For React)
+# Python3.7 VS ES6 syntax comparison (For React)
 ################################################################################
 
 References:
